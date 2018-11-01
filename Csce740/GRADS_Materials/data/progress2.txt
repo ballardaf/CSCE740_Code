@@ -1,0 +1,247 @@
+{
+  "student": {
+    "id": "pikaP",
+    "firstName": "Pikachu",
+    "lastName": "P"
+  },
+  "department": "COMPUTER_SCIENCE",
+  "termBegan": {
+    "semester": "SUMMER",
+    "year": 2013
+  },
+  "degreeSought": {
+    "name": "MS",
+    "graduation": {
+      "semester": "SPRING",
+      "year": 2018
+    }
+  },
+  "advisors": [
+    {
+      "department": "COMPUTER_SCIENCE",
+      "firstName": "Duncan",
+      "lastName": "Buell"
+    }
+  ],
+  "committee": [
+    {
+      "department": "COMPUTER_SCIENCE",
+      "firstName": "Manton",
+      "lastName": "Matthews"
+    },
+    {
+      "department": "COMPUTER_SCIENCE",
+      "firstName": "Jason",
+      "lastName": "Bakos"
+    },
+    {
+      "department": "MATHEMATICS",
+      "firstName": "Richard",
+      "lastName": "McGehee"
+    }
+  ],
+  "requirementCheckResults": [
+    {
+      "name": "CORE_COURSES_MS",
+      "passed": true,
+      "details": {
+        "gpa": "",
+        "courseTaken": [
+          {
+            "course": {
+              "name": "Computer Architecture",
+              "id": "csce513",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2013
+            },
+            "grade": "A"
+          },
+          {
+            "course": {
+              "name": "Compiler Construction",
+              "id": "csce531",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2014
+            },
+            "grade": "A"
+          },
+          {
+            "course": {
+              "name": "Analysis of Algorithms",
+              "id": "csce750",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2015
+            },
+            "grade": "A"
+          },
+          {
+            "course": {
+              "name": "Seminar in Advances in Computing",
+              "id": "csce791",
+              "numCredits": "1"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2015
+            },
+            "grade": "A"
+          }
+        ],
+        "milestones": [],
+        "notes": []
+      }
+    },
+    {
+      "name": "ADDITIONAL_CREDITS_MSE",
+      "passed": false,
+      "details": {
+        "gpa": "",
+        "courseTaken": [],
+        "milestones": [],
+        "notes": []
+      }
+    },
+    {
+      "name": "DEGREE_BASED_CREDITS_MS",
+      "passed": false,
+      "details": {
+        "gpa": "",
+        "courseTaken": [
+          {
+            "course": {
+              "name": "Naptime",
+              "id": "nap734",
+              "numCredits": "5"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2014
+            },
+            "grade": "B"
+          },
+          {
+            "course": {
+              "name": "Advanced Naptime",
+              "id": "nap888",
+              "numCredits": "5"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2014
+            },
+            "grade": "B"
+          },
+          {
+            "course": {
+              "name": "Computer Architecture",
+              "id": "csce513",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2013
+            },
+            "grade": "A"
+          },
+          {
+            "course": {
+              "name": "Compiler Construction",
+              "id": "csce531",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2014
+            },
+            "grade": "A"
+          },
+          {
+            "course": {
+              "name": "Theory of Computation",
+              "id": "csce551",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2014
+            },
+            "grade": "A"
+          }
+        ],
+        "milestones": [],
+        "notes": [
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken",
+          "courses not taken"
+        ]
+      }
+    },
+    {
+      "name": "THESIS_CREDITS_MS",
+      "passed": false,
+      "details": {
+        "gpa": "",
+        "courseTaken": [],
+        "milestones": [],
+        "notes": [
+          "6 hours of theses work not complete"
+        ]
+      }
+    },
+    {
+      "name": "THESIS_CREDITS_MS",
+      "passed": false,
+      "details": {
+        "gpa": "",
+        "courseTaken": [],
+        "milestones": [],
+        "notes": [
+          "Six year period not met"
+        ]
+      }
+    },
+    {
+      "name": "GPA",
+      "passed": true,
+      "details": {
+        "gpa": "3.57"
+      }
+    },
+    {
+      "name": "MILESTONES_MS",
+      "passed": false,
+      "details": {
+        "gpa": "",
+        "courseTaken": [],
+        "milestones": [],
+        "notes": [
+          "Missing milestone ACADEMIC_ADVISOR_APPOINTED",
+          "Missing milestone THESIS_ADVISOR_SELECTED",
+          "Missing milestone PROGRAM_OF_STUDY_SUBMITTED",
+          "Missing milestone THESIS_COMMITTEE_FORMED",
+          "Missing milestone THESIS_PROPOSAL_SCHEDULED",
+          "Missing milestone THESIS_PROPOSAL_APPROVED",
+          "Missing milestone THESIS_SUBMITTED",
+          "Missing milestone THESIS_DEFENSE_SCHEDULED",
+          "Missing milestone THESIS_DEFENSE_PASSED"
+        ]
+      }
+    }
+  ]
+}
